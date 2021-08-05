@@ -1,0 +1,23 @@
+Welcome to the random poetry generator!
+Please wait while the dictiionary is loaded.
+Let's make some poetry, dude! Enter the number of lines: 4
+Radical! Now, enter the number of words per line: 3
+
+Here's your poem, man!
+        proffers foresail's Issie's 
+        teahouses trinity's Odella 
+        spaghettis columnizes Jersey 
+        prophetical repurchasing chamoising 
+
+Would you like to make another poem? Enter 1 for yes, 0 for no: 1
+Let's make some poetry, dude! Enter the number of lines: 5
+Radical! Now, enter the number of words per line: 5
+
+Here's your poem, man!
+        sternnesses stomachache conflict's simmers Nettie 
+        insincerely crannies lymphocyte Zsigmondy's besmirch 
+        Glory's immunization islanded hirer's Brynne's 
+        niggle americiums dredged waving rearguard's 
+        Northumberland incarcerates nondisclosures eclipsed Siegmund 
+
+Would you like to make another poem? Enter 1 for yes, 0 for no: 0
